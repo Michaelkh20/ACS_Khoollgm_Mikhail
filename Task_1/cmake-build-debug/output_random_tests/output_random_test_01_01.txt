@@ -1,0 +1,12 @@
+Filled container:
+Container contains 10 elements.
+0: It is Parallelepiped: a = 19, b = 7, c = 17, density = 34. Volume = 2261
+1: It is Sphere: Radius = 12, density = 20. Volume = 7870.29
+2: It is Tetrahedron: Edge = 4, density = 31. Volume = 7.54247
+3: It is Tetrahedron: Edge = 6, density = 36. Volume = 25.4558
+4: It is Sphere: Radius = 17, density = 40. Volume = 22376.6
+5: It is Tetrahedron: Edge = 40, density = 25. Volume = 7542.47
+6: It is Tetrahedron: Edge = 7, density = 4. Volume = 40.4229
+7: It is Parallelepiped: a = 10, b = 18, c = 16, density = 3. Volume = 2880
+8: It is Tetrahedron: Edge = 38, density = 14. Volume = 6466.73
+9: It is Parallelepiped: a = 33, b = 29, c = 28, density = 4. Volume = 26796

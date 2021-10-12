@@ -1,0 +1,10 @@
+Shapes larger then average volume have been removed from container
+Filled container:
+Container contains 7 elements.
+0: It is Parallelepiped: a = 19, b = 7, c = 17, density = 34. Volume = 2261
+1: It is Tetrahedron: Edge = 4, density = 31. Volume = 7.54247
+2: It is Tetrahedron: Edge = 6, density = 36. Volume = 25.4558
+3: It is Tetrahedron: Edge = 40, density = 25. Volume = 7542.47
+4: It is Tetrahedron: Edge = 7, density = 4. Volume = 40.4229
+5: It is Parallelepiped: a = 10, b = 18, c = 16, density = 3. Volume = 2880
+6: It is Tetrahedron: Edge = 38, density = 14. Volume = 6466.73
