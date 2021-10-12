@@ -1,0 +1,29 @@
+Filled container:
+Container contains 27 elements.
+0: It is Tetrahedron: Edge = 15, density = 3. Volume = 397.748
+1: It is Sphere: Radius = 14, density = 2. Volume = 12497.7
+2: It is Sphere: Radius = 13, density = 3. Volume = 10006.4
+3: It is Sphere: Radius = 7, density = 4. Volume = 1562.22
+4: It is Tetrahedron: Edge = 10, density = 2. Volume = 117.851
+5: It is Tetrahedron: Edge = 5, density = 1. Volume = 14.7314
+6: It is Parallelepiped: a = 5, b = 10, c = 6, density = 3. Volume = 300
+7: It is Parallelepiped: a = 18, b = 2, c = 3, density = 4. Volume = 108
+8: It is Sphere: Radius = 5, density = 3. Volume = 569.321
+9: It is Sphere: Radius = 17, density = 1. Volume = 22376.6
+10: It is Tetrahedron: Edge = 10, density = 3. Volume = 117.851
+11: It is Sphere: Radius = 10, density = 3. Volume = 4554.57
+12: It is Parallelepiped: a = 12, b = 9, c = 6, density = 4. Volume = 648
+13: It is Tetrahedron: Edge = 7, density = 2. Volume = 40.4229
+14: It is Sphere: Radius = 3, density = 2. Volume = 122.973
+15: It is Tetrahedron: Edge = 18, density = 4. Volume = 687.308
+16: It is Parallelepiped: a = 5, b = 18, c = 8, density = 5. Volume = 720
+17: It is Tetrahedron: Edge = 11, density = 1. Volume = 156.86
+18: It is Sphere: Radius = 19, density = 3. Volume = 31239.8
+19: It is Sphere: Radius = 18, density = 4. Volume = 26562.2
+20: It is Parallelepiped: a = 11, b = 15, c = 3, density = 5. Volume = 495
+21: It is Sphere: Radius = 20, density = 4. Volume = 36436.5
+22: It is Parallelepiped: a = 10, b = 16, c = 18, density = 3. Volume = 2880
+23: It is Sphere: Radius = 12, density = 3. Volume = 7870.29
+24: It is Sphere: Radius = 12, density = 3. Volume = 7870.29
+25: It is Sphere: Radius = 2, density = 5. Volume = 36.4365
+26: It is Tetrahedron: Edge = 19, density = 4. Volume = 808.341

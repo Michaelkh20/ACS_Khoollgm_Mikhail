@@ -1,0 +1,17 @@
+Shapes larger then average volume have been removed from container
+Filled container:
+Container contains 14 elements.
+0: It is Sphere: Radius = 24, density = 1. Volume = 62962.4
+1: It is Parallelepiped: a = 25, b = 28, c = 29, density = 3. Volume = 20300
+2: It is Sphere: Radius = 56, density = 5. Volume = 799855
+3: It is Parallelepiped: a = 89, b = 56, c = 23, density = 2. Volume = 114632
+4: It is Tetrahedron: Edge = 45, density = 3. Volume = 10739.2
+5: It is Parallelepiped: a = 89, b = 12, c = 23, density = 3. Volume = 24564
+6: It is Tetrahedron: Edge = 47, density = 4. Volume = 12235.7
+7: It is Tetrahedron: Edge = 69, density = 1. Volume = 38715.2
+8: It is Sphere: Radius = 20, density = 3. Volume = 36436.5
+9: It is Parallelepiped: a = 24, b = 27, c = 29, density = 2. Volume = 18792
+10: It is Tetrahedron: Edge = 58, density = 3. Volume = 22994.2
+11: It is Tetrahedron: Edge = 69, density = 1. Volume = 38715.2
+12: It is Tetrahedron: Edge = 60, density = 3. Volume = 25455.8
+13: It is Parallelepiped: a = 87, b = 12, c = 3, density = 4. Volume = 3132
