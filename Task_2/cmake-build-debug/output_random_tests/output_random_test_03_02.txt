@@ -1,0 +1,841 @@
+Shapes larger then average volume have been removed from Container
+Filled Container:
+Container contains 838 elements.
+0: It is Tetrahedron: Edge = 37, density = 2.4. Volume = 5969.51
+1: It is Sphere: Radius = 6, density = 2.7. Volume = 983.787
+2: It is Tetrahedron: Edge = 7, density = 4.5. Volume = 40.4229
+3: It is Sphere: Radius = 18, density = 1.3. Volume = 26562.2
+4: It is Tetrahedron: Edge = 18, density = 4.4. Volume = 687.308
+5: It is Parallelepiped: a = 38, b = 5, c = 11, density = 1.4. Volume = 2090
+6: It is Parallelepiped: a = 4, b = 28, c = 26, density = 1.5. Volume = 2912
+7: It is Parallelepiped: a = 14, b = 13, c = 6, density = 2.1. Volume = 1092
+8: It is Sphere: Radius = 7, density = 2.7. Volume = 1562.22
+9: It is Tetrahedron: Edge = 35, density = 4.6. Volume = 5052.87
+10: It is Parallelepiped: a = 28, b = 35, c = 3, density = 4.1. Volume = 2940
+11: It is Parallelepiped: a = 6, b = 12, c = 8, density = 1.3. Volume = 576
+12: It is Parallelepiped: a = 33, b = 37, c = 2, density = 1.1. Volume = 2442
+13: It is Parallelepiped: a = 17, b = 26, c = 13, density = 3.4. Volume = 5746
+14: It is Sphere: Radius = 7, density = 3.1. Volume = 1562.22
+15: It is Tetrahedron: Edge = 28, density = 1.8. Volume = 2587.07
+16: It is Tetrahedron: Edge = 12, density = 1.1. Volume = 203.647
+17: It is Parallelepiped: a = 2, b = 40, c = 10, density = 1. Volume = 800
+18: It is Tetrahedron: Edge = 40, density = 3.1. Volume = 7542.47
+19: It is Tetrahedron: Edge = 35, density = 1.5. Volume = 5052.87
+20: It is Tetrahedron: Edge = 36, density = 4.9. Volume = 5498.46
+21: It is Tetrahedron: Edge = 12, density = 3.4. Volume = 203.647
+22: It is Tetrahedron: Edge = 29, density = 2.1. Volume = 2874.27
+23: It is Sphere: Radius = 10, density = 1.7. Volume = 4554.57
+24: It is Sphere: Radius = 10, density = 4.4. Volume = 4554.57
+25: It is Parallelepiped: a = 1, b = 18, c = 5, density = 4.4. Volume = 90
+26: It is Parallelepiped: a = 24, b = 12, c = 21, density = 2.7. Volume = 6048
+27: It is Sphere: Radius = 18, density = 1.4. Volume = 26562.2
+28: It is Tetrahedron: Edge = 29, density = 1.7. Volume = 2874.27
+29: It is Sphere: Radius = 3, density = 4.5. Volume = 122.973
+30: It is Parallelepiped: a = 24, b = 37, c = 3, density = 4.1. Volume = 2664
+31: It is Tetrahedron: Edge = 38, density = 3.4. Volume = 6466.73
+32: It is Sphere: Radius = 15, density = 3. Volume = 15371.7
+33: It is Sphere: Radius = 6, density = 4.9. Volume = 983.787
+34: It is Parallelepiped: a = 21, b = 3, c = 17, density = 3.9. Volume = 1071
+35: It is Tetrahedron: Edge = 26, density = 4.3. Volume = 2071.35
+36: It is Parallelepiped: a = 14, b = 1, c = 11, density = 2.6. Volume = 154
+37: It is Tetrahedron: Edge = 6, density = 4.9. Volume = 25.4558
+38: It is Parallelepiped: a = 8, b = 24, c = 15, density = 1.4. Volume = 2880
+39: It is Tetrahedron: Edge = 13, density = 2. Volume = 258.919
+40: It is Parallelepiped: a = 6, b = 29, c = 13, density = 1.1. Volume = 2262
+41: It is Parallelepiped: a = 15, b = 10, c = 30, density = 3.5. Volume = 4500
+42: It is Tetrahedron: Edge = 15, density = 4.5. Volume = 397.748
+43: It is Parallelepiped: a = 8, b = 6, c = 9, density = 4.5. Volume = 432
+44: It is Parallelepiped: a = 23, b = 18, c = 7, density = 3.2. Volume = 2898
+45: It is Parallelepiped: a = 17, b = 35, c = 18, density = 1. Volume = 10710
+46: It is Parallelepiped: a = 15, b = 21, c = 29, density = 1.7. Volume = 9135
+47: It is Tetrahedron: Edge = 35, density = 2.6. Volume = 5052.87
+48: It is Parallelepiped: a = 15, b = 4, c = 9, density = 2.1. Volume = 540
+49: It is Sphere: Radius = 39, density = 2.5. Volume = 270172
+50: It is Tetrahedron: Edge = 17, density = 3.1. Volume = 579.003
+51: It is Tetrahedron: Edge = 38, density = 3.9. Volume = 6466.73
+52: It is Tetrahedron: Edge = 8, density = 3.9. Volume = 60.3398
+53: It is Tetrahedron: Edge = 22, density = 2.5. Volume = 1254.88
+54: It is Tetrahedron: Edge = 33, density = 2. Volume = 4235.22
+55: It is Tetrahedron: Edge = 28, density = 2.8. Volume = 2587.07
+56: It is Tetrahedron: Edge = 31, density = 2.3. Volume = 3510.9
+57: It is Parallelepiped: a = 34, b = 13, c = 26, density = 2.8. Volume = 11492
+58: It is Tetrahedron: Edge = 7, density = 2.7. Volume = 40.4229
+59: It is Tetrahedron: Edge = 36, density = 2.8. Volume = 5498.46
+60: It is Parallelepiped: a = 18, b = 19, c = 39, density = 2.9. Volume = 13338
+61: It is Tetrahedron: Edge = 20, density = 3.6. Volume = 942.809
+62: It is Parallelepiped: a = 9, b = 36, c = 17, density = 4.3. Volume = 5508
+63: It is Sphere: Radius = 18, density = 3. Volume = 26562.2
+64: It is Tetrahedron: Edge = 15, density = 1.3. Volume = 397.748
+65: It is Parallelepiped: a = 33, b = 37, c = 3, density = 2.7. Volume = 3663
+66: It is Parallelepiped: a = 23, b = 16, c = 16, density = 4.9. Volume = 5888
+67: It is Tetrahedron: Edge = 26, density = 3.4. Volume = 2071.35
+68: It is Tetrahedron: Edge = 4, density = 3.2. Volume = 7.54247
+69: It is Parallelepiped: a = 11, b = 34, c = 17, density = 4.2. Volume = 6358
+70: It is Tetrahedron: Edge = 5, density = 1.9. Volume = 14.7314
+71: It is Tetrahedron: Edge = 3, density = 2.8. Volume = 3.18198
+72: It is Tetrahedron: Edge = 11, density = 4.2. Volume = 156.86
+73: It is Tetrahedron: Edge = 1, density = 2.6. Volume = 0.117851
+74: It is Parallelepiped: a = 9, b = 1, c = 12, density = 1.8. Volume = 108
+75: It is Parallelepiped: a = 37, b = 25, c = 15, density = 4.9. Volume = 13875
+76: It is Sphere: Radius = 6, density = 1.2. Volume = 983.787
+77: It is Tetrahedron: Edge = 14, density = 4.4. Volume = 323.384
+78: It is Parallelepiped: a = 10, b = 36, c = 12, density = 1.3. Volume = 4320
+79: It is Sphere: Radius = 21, density = 1.6. Volume = 42179.9
+80: It is Tetrahedron: Edge = 11, density = 1.1. Volume = 156.86
+81: It is Sphere: Radius = 7, density = 1.1. Volume = 1562.22
+82: It is Tetrahedron: Edge = 10, density = 1.1. Volume = 117.851
+83: It is Sphere: Radius = 6, density = 3.5. Volume = 983.787
+84: It is Tetrahedron: Edge = 39, density = 1.6. Volume = 6990.81
+85: It is Tetrahedron: Edge = 34, density = 3.3. Volume = 4632.02
+86: It is Parallelepiped: a = 29, b = 35, c = 11, density = 4.4. Volume = 11165
+87: It is Parallelepiped: a = 25, b = 26, c = 25, density = 3.2. Volume = 16250
+88: It is Tetrahedron: Edge = 1, density = 2.7. Volume = 0.117851
+89: It is Parallelepiped: a = 10, b = 19, c = 6, density = 1.6. Volume = 1140
+90: It is Parallelepiped: a = 33, b = 3, c = 12, density = 2.5. Volume = 1188
+91: It is Tetrahedron: Edge = 11, density = 1.4. Volume = 156.86
+92: It is Parallelepiped: a = 28, b = 14, c = 34, density = 4.1. Volume = 13328
+93: It is Sphere: Radius = 11, density = 2.5. Volume = 6062.13
+94: It is Sphere: Radius = 3, density = 1.9. Volume = 122.973
+95: It is Parallelepiped: a = 11, b = 2, c = 5, density = 4.6. Volume = 110
+96: It is Sphere: Radius = 15, density = 1.1. Volume = 15371.7
+97: It is Sphere: Radius = 11, density = 3.5. Volume = 6062.13
+98: It is Sphere: Radius = 15, density = 4.3. Volume = 15371.7
+99: It is Tetrahedron: Edge = 18, density = 1.8. Volume = 687.308
+100: It is Sphere: Radius = 20, density = 1.2. Volume = 36436.5
+101: It is Parallelepiped: a = 35, b = 15, c = 10, density = 4.5. Volume = 5250
+102: It is Tetrahedron: Edge = 20, density = 3.8. Volume = 942.809
+103: It is Tetrahedron: Edge = 16, density = 4. Volume = 482.718
+104: It is Sphere: Radius = 10, density = 4. Volume = 4554.57
+105: It is Tetrahedron: Edge = 27, density = 3.4. Volume = 2319.66
+106: It is Parallelepiped: a = 20, b = 21, c = 13, density = 2.7. Volume = 5460
+107: It is Parallelepiped: a = 22, b = 18, c = 6, density = 1.9. Volume = 2376
+108: It is Tetrahedron: Edge = 3, density = 3.8. Volume = 3.18198
+109: It is Tetrahedron: Edge = 18, density = 2.4. Volume = 687.308
+110: It is Tetrahedron: Edge = 27, density = 1.9. Volume = 2319.66
+111: It is Parallelepiped: a = 6, b = 12, c = 34, density = 1.6. Volume = 2448
+112: It is Parallelepiped: a = 8, b = 34, c = 18, density = 4.5. Volume = 4896
+113: It is Parallelepiped: a = 38, b = 8, c = 22, density = 3.3. Volume = 6688
+114: It is Sphere: Radius = 23, density = 4.1. Volume = 55415.4
+115: It is Tetrahedron: Edge = 32, density = 2.9. Volume = 3861.75
+116: It is Parallelepiped: a = 38, b = 15, c = 25, density = 4. Volume = 14250
+117: It is Parallelepiped: a = 18, b = 30, c = 15, density = 4.4. Volume = 8100
+118: It is Parallelepiped: a = 27, b = 25, c = 24, density = 1.8. Volume = 16200
+119: It is Tetrahedron: Edge = 4, density = 4.9. Volume = 7.54247
+120: It is Parallelepiped: a = 25, b = 14, c = 11, density = 1.1. Volume = 3850
+121: It is Parallelepiped: a = 12, b = 25, c = 4, density = 3.2. Volume = 1200
+122: It is Tetrahedron: Edge = 20, density = 4.9. Volume = 942.809
+123: It is Sphere: Radius = 17, density = 1.5. Volume = 22376.6
+124: It is Tetrahedron: Edge = 28, density = 1. Volume = 2587.07
+125: It is Sphere: Radius = 4, density = 2.9. Volume = 291.492
+126: It is Tetrahedron: Edge = 14, density = 2. Volume = 323.384
+127: It is Tetrahedron: Edge = 38, density = 3.3. Volume = 6466.73
+128: It is Parallelepiped: a = 31, b = 28, c = 33, density = 2.4. Volume = 28644
+129: It is Tetrahedron: Edge = 15, density = 3.2. Volume = 397.748
+130: It is Sphere: Radius = 6, density = 1.3. Volume = 983.787
+131: It is Parallelepiped: a = 12, b = 9, c = 9, density = 3.9. Volume = 972
+132: It is Tetrahedron: Edge = 36, density = 3.2. Volume = 5498.46
+133: It is Parallelepiped: a = 31, b = 2, c = 16, density = 1. Volume = 992
+134: It is Parallelepiped: a = 39, b = 14, c = 23, density = 2.7. Volume = 12558
+135: It is Sphere: Radius = 25, density = 2.5. Volume = 71165.1
+136: It is Sphere: Radius = 8, density = 4. Volume = 2331.94
+137: It is Sphere: Radius = 10, density = 3.7. Volume = 4554.57
+138: It is Parallelepiped: a = 20, b = 31, c = 16, density = 3.7. Volume = 9920
+139: It is Sphere: Radius = 20, density = 4.6. Volume = 36436.5
+140: It is Parallelepiped: a = 26, b = 10, c = 22, density = 4.4. Volume = 5720
+141: It is Sphere: Radius = 11, density = 3.5. Volume = 6062.13
+142: It is Parallelepiped: a = 35, b = 24, c = 6, density = 4.5. Volume = 5040
+143: It is Tetrahedron: Edge = 36, density = 4.4. Volume = 5498.46
+144: It is Tetrahedron: Edge = 25, density = 1.9. Volume = 1841.42
+145: It is Tetrahedron: Edge = 37, density = 1.5. Volume = 5969.51
+146: It is Sphere: Radius = 15, density = 1.2. Volume = 15371.7
+147: It is Tetrahedron: Edge = 40, density = 1.3. Volume = 7542.47
+148: It is Sphere: Radius = 4, density = 2. Volume = 291.492
+149: It is Tetrahedron: Edge = 37, density = 4.6. Volume = 5969.51
+150: It is Sphere: Radius = 12, density = 1.1. Volume = 7870.29
+151: It is Tetrahedron: Edge = 15, density = 2.4. Volume = 397.748
+152: It is Tetrahedron: Edge = 40, density = 1.1. Volume = 7542.47
+153: It is Sphere: Radius = 20, density = 2.4. Volume = 36436.5
+154: It is Parallelepiped: a = 38, b = 29, c = 19, density = 2.4. Volume = 20938
+155: It is Sphere: Radius = 29, density = 2.2. Volume = 111081
+156: It is Tetrahedron: Edge = 32, density = 4.8. Volume = 3861.75
+157: It is Parallelepiped: a = 21, b = 36, c = 16, density = 4.4. Volume = 12096
+158: It is Parallelepiped: a = 7, b = 37, c = 28, density = 4.4. Volume = 7252
+159: It is Sphere: Radius = 15, density = 1.5. Volume = 15371.7
+160: It is Parallelepiped: a = 9, b = 17, c = 21, density = 3.1. Volume = 3213
+161: It is Sphere: Radius = 13, density = 1.1. Volume = 10006.4
+162: It is Sphere: Radius = 3, density = 3. Volume = 122.973
+163: It is Sphere: Radius = 4, density = 1. Volume = 291.492
+164: It is Parallelepiped: a = 18, b = 24, c = 27, density = 1.4. Volume = 11664
+165: It is Tetrahedron: Edge = 33, density = 1.9. Volume = 4235.22
+166: It is Parallelepiped: a = 23, b = 13, c = 10, density = 3.2. Volume = 2990
+167: It is Tetrahedron: Edge = 31, density = 1.4. Volume = 3510.9
+168: It is Parallelepiped: a = 1, b = 7, c = 34, density = 1.4. Volume = 238
+169: It is Parallelepiped: a = 17, b = 7, c = 20, density = 2. Volume = 2380
+170: It is Parallelepiped: a = 7, b = 31, c = 31, density = 3.9. Volume = 6727
+171: It is Parallelepiped: a = 5, b = 28, c = 25, density = 2.6. Volume = 3500
+172: It is Tetrahedron: Edge = 39, density = 4.6. Volume = 6990.81
+173: It is Tetrahedron: Edge = 3, density = 4.7. Volume = 3.18198
+174: It is Sphere: Radius = 9, density = 3.3. Volume = 3320.28
+175: It is Sphere: Radius = 8, density = 4.1. Volume = 2331.94
+176: It is Parallelepiped: a = 19, b = 3, c = 9, density = 4. Volume = 513
+177: It is Parallelepiped: a = 30, b = 37, c = 25, density = 2.2. Volume = 27750
+178: It is Parallelepiped: a = 34, b = 7, c = 37, density = 4.4. Volume = 8806
+179: It is Sphere: Radius = 17, density = 2.8. Volume = 22376.6
+180: It is Tetrahedron: Edge = 6, density = 2.7. Volume = 25.4558
+181: It is Tetrahedron: Edge = 17, density = 2.1. Volume = 579.003
+182: It is Parallelepiped: a = 20, b = 13, c = 20, density = 3.7. Volume = 5200
+183: It is Sphere: Radius = 12, density = 3.6. Volume = 7870.29
+184: It is Parallelepiped: a = 6, b = 35, c = 21, density = 4.8. Volume = 4410
+185: It is Tetrahedron: Edge = 9, density = 2.4. Volume = 85.9135
+186: It is Tetrahedron: Edge = 27, density = 1.7. Volume = 2319.66
+187: It is Sphere: Radius = 16, density = 1.2. Volume = 18655.5
+188: It is Parallelepiped: a = 21, b = 30, c = 39, density = 3.8. Volume = 24570
+189: It is Parallelepiped: a = 36, b = 8, c = 6, density = 1.6. Volume = 1728
+190: It is Parallelepiped: a = 17, b = 10, c = 14, density = 4.8. Volume = 2380
+191: It is Parallelepiped: a = 8, b = 19, c = 6, density = 2.5. Volume = 912
+192: It is Tetrahedron: Edge = 20, density = 1.3. Volume = 942.809
+193: It is Tetrahedron: Edge = 28, density = 4. Volume = 2587.07
+194: It is Tetrahedron: Edge = 22, density = 2.9. Volume = 1254.88
+195: It is Tetrahedron: Edge = 34, density = 2. Volume = 4632.02
+196: It is Parallelepiped: a = 24, b = 10, c = 28, density = 2.6. Volume = 6720
+197: It is Parallelepiped: a = 28, b = 14, c = 35, density = 2.4. Volume = 13720
+198: It is Sphere: Radius = 5, density = 2.9. Volume = 569.321
+199: It is Tetrahedron: Edge = 11, density = 2.8. Volume = 156.86
+200: It is Sphere: Radius = 8, density = 4.4. Volume = 2331.94
+201: It is Parallelepiped: a = 20, b = 38, c = 8, density = 4.8. Volume = 6080
+202: It is Tetrahedron: Edge = 4, density = 2.9. Volume = 7.54247
+203: It is Parallelepiped: a = 24, b = 13, c = 2, density = 3.2. Volume = 624
+204: It is Parallelepiped: a = 3, b = 3, c = 36, density = 4.8. Volume = 324
+205: It is Sphere: Radius = 9, density = 4.2. Volume = 3320.28
+206: It is Sphere: Radius = 11, density = 4.9. Volume = 6062.13
+207: It is Sphere: Radius = 1, density = 4.8. Volume = 4.55457
+208: It is Sphere: Radius = 11, density = 2.7. Volume = 6062.13
+209: It is Tetrahedron: Edge = 10, density = 2.5. Volume = 117.851
+210: It is Sphere: Radius = 13, density = 4.4. Volume = 10006.4
+211: It is Parallelepiped: a = 28, b = 40, c = 20, density = 2. Volume = 22400
+212: It is Sphere: Radius = 14, density = 1.4. Volume = 12497.7
+213: It is Tetrahedron: Edge = 12, density = 4.3. Volume = 203.647
+214: It is Tetrahedron: Edge = 36, density = 3.8. Volume = 5498.46
+215: It is Parallelepiped: a = 25, b = 3, c = 15, density = 2.5. Volume = 1125
+216: It is Sphere: Radius = 16, density = 2.3. Volume = 18655.5
+217: It is Parallelepiped: a = 35, b = 7, c = 9, density = 4.8. Volume = 2205
+218: It is Parallelepiped: a = 19, b = 27, c = 33, density = 3.9. Volume = 16929
+219: It is Tetrahedron: Edge = 19, density = 1.2. Volume = 808.341
+220: It is Sphere: Radius = 8, density = 1.1. Volume = 2331.94
+221: It is Sphere: Radius = 12, density = 3.5. Volume = 7870.29
+222: It is Parallelepiped: a = 27, b = 33, c = 18, density = 1.1. Volume = 16038
+223: It is Parallelepiped: a = 36, b = 13, c = 36, density = 4.6. Volume = 16848
+224: It is Tetrahedron: Edge = 29, density = 2.4. Volume = 2874.27
+225: It is Tetrahedron: Edge = 21, density = 1.4. Volume = 1091.42
+226: It is Tetrahedron: Edge = 31, density = 1.6. Volume = 3510.9
+227: It is Parallelepiped: a = 16, b = 13, c = 18, density = 3.2. Volume = 3744
+228: It is Sphere: Radius = 15, density = 4.3. Volume = 15371.7
+229: It is Tetrahedron: Edge = 14, density = 2.9. Volume = 323.384
+230: It is Tetrahedron: Edge = 6, density = 4.8. Volume = 25.4558
+231: It is Sphere: Radius = 30, density = 1.5. Volume = 122973
+232: It is Parallelepiped: a = 4, b = 34, c = 36, density = 4.9. Volume = 4896
+233: It is Sphere: Radius = 18, density = 4.8. Volume = 26562.2
+234: It is Sphere: Radius = 7, density = 1.7. Volume = 1562.22
+235: It is Sphere: Radius = 12, density = 1.3. Volume = 7870.29
+236: It is Parallelepiped: a = 25, b = 15, c = 21, density = 2.4. Volume = 7875
+237: It is Sphere: Radius = 14, density = 2.7. Volume = 12497.7
+238: It is Parallelepiped: a = 35, b = 23, c = 25, density = 4. Volume = 20125
+239: It is Parallelepiped: a = 12, b = 30, c = 10, density = 3.1. Volume = 3600
+240: It is Tetrahedron: Edge = 13, density = 1.5. Volume = 258.919
+241: It is Parallelepiped: a = 25, b = 13, c = 21, density = 2. Volume = 6825
+242: It is Tetrahedron: Edge = 10, density = 1.2. Volume = 117.851
+243: It is Tetrahedron: Edge = 5, density = 2.7. Volume = 14.7314
+244: It is Sphere: Radius = 12, density = 4. Volume = 7870.29
+245: It is Tetrahedron: Edge = 36, density = 3.2. Volume = 5498.46
+246: It is Sphere: Radius = 12, density = 2.2. Volume = 7870.29
+247: It is Parallelepiped: a = 24, b = 34, c = 7, density = 1.4. Volume = 5712
+248: It is Tetrahedron: Edge = 11, density = 1.9. Volume = 156.86
+249: It is Tetrahedron: Edge = 35, density = 2.3. Volume = 5052.87
+250: It is Parallelepiped: a = 37, b = 18, c = 17, density = 4.9. Volume = 11322
+251: It is Sphere: Radius = 14, density = 1.8. Volume = 12497.7
+252: It is Parallelepiped: a = 6, b = 29, c = 1, density = 3.6. Volume = 174
+253: It is Parallelepiped: a = 5, b = 24, c = 16, density = 4.7. Volume = 1920
+254: It is Parallelepiped: a = 12, b = 11, c = 32, density = 3. Volume = 4224
+255: It is Tetrahedron: Edge = 18, density = 3.6. Volume = 687.308
+256: It is Parallelepiped: a = 14, b = 36, c = 21, density = 1.4. Volume = 10584
+257: It is Parallelepiped: a = 34, b = 6, c = 6, density = 2.7. Volume = 1224
+258: It is Sphere: Radius = 34, density = 4.9. Volume = 179013
+259: It is Tetrahedron: Edge = 20, density = 4.9. Volume = 942.809
+260: It is Tetrahedron: Edge = 35, density = 2.4. Volume = 5052.87
+261: It is Parallelepiped: a = 8, b = 26, c = 2, density = 4.8. Volume = 416
+262: It is Tetrahedron: Edge = 11, density = 3.1. Volume = 156.86
+263: It is Tetrahedron: Edge = 17, density = 4. Volume = 579.003
+264: It is Parallelepiped: a = 27, b = 19, c = 17, density = 4.7. Volume = 8721
+265: It is Sphere: Radius = 10, density = 4.6. Volume = 4554.57
+266: It is Parallelepiped: a = 30, b = 37, c = 23, density = 2.5. Volume = 25530
+267: It is Sphere: Radius = 14, density = 3.3. Volume = 12497.7
+268: It is Sphere: Radius = 16, density = 2.3. Volume = 18655.5
+269: It is Parallelepiped: a = 14, b = 30, c = 27, density = 2.6. Volume = 11340
+270: It is Parallelepiped: a = 14, b = 16, c = 19, density = 4.4. Volume = 4256
+271: It is Tetrahedron: Edge = 29, density = 1.3. Volume = 2874.27
+272: It is Sphere: Radius = 12, density = 2.2. Volume = 7870.29
+273: It is Sphere: Radius = 40, density = 1.9. Volume = 291492
+274: It is Tetrahedron: Edge = 13, density = 3.4. Volume = 258.919
+275: It is Parallelepiped: a = 34, b = 27, c = 2, density = 1.1. Volume = 1836
+276: It is Sphere: Radius = 37, density = 2.5. Volume = 230703
+277: It is Parallelepiped: a = 32, b = 18, c = 7, density = 3.6. Volume = 4032
+278: It is Tetrahedron: Edge = 10, density = 4.8. Volume = 117.851
+279: It is Tetrahedron: Edge = 26, density = 4.3. Volume = 2071.35
+280: It is Parallelepiped: a = 30, b = 18, c = 1, density = 1.9. Volume = 540
+281: It is Sphere: Radius = 9, density = 4.4. Volume = 3320.28
+282: It is Parallelepiped: a = 10, b = 36, c = 14, density = 4.2. Volume = 5040
+283: It is Parallelepiped: a = 14, b = 30, c = 3, density = 4.1. Volume = 1260
+284: It is Parallelepiped: a = 12, b = 30, c = 39, density = 2.9. Volume = 14040
+285: It is Tetrahedron: Edge = 29, density = 3.1. Volume = 2874.27
+286: It is Tetrahedron: Edge = 13, density = 4.9. Volume = 258.919
+287: It is Sphere: Radius = 6, density = 4.4. Volume = 983.787
+288: It is Tetrahedron: Edge = 15, density = 4.4. Volume = 397.748
+289: It is Parallelepiped: a = 22, b = 3, c = 27, density = 1.6. Volume = 1782
+290: It is Tetrahedron: Edge = 14, density = 2.9. Volume = 323.384
+291: It is Parallelepiped: a = 1, b = 26, c = 18, density = 1.3. Volume = 468
+292: It is Sphere: Radius = 20, density = 3.5. Volume = 36436.5
+293: It is Sphere: Radius = 9, density = 4.9. Volume = 3320.28
+294: It is Parallelepiped: a = 21, b = 39, c = 9, density = 2.8. Volume = 7371
+295: It is Parallelepiped: a = 32, b = 25, c = 19, density = 3.4. Volume = 15200
+296: It is Sphere: Radius = 14, density = 2. Volume = 12497.7
+297: It is Sphere: Radius = 18, density = 3.4. Volume = 26562.2
+298: It is Sphere: Radius = 6, density = 3.4. Volume = 983.787
+299: It is Parallelepiped: a = 16, b = 20, c = 9, density = 1.4. Volume = 2880
+300: It is Sphere: Radius = 28, density = 3.4. Volume = 99981.9
+301: It is Tetrahedron: Edge = 26, density = 4.6. Volume = 2071.35
+302: It is Parallelepiped: a = 26, b = 7, c = 25, density = 2.7. Volume = 4550
+303: It is Tetrahedron: Edge = 36, density = 1.1. Volume = 5498.46
+304: It is Tetrahedron: Edge = 9, density = 1.3. Volume = 85.9135
+305: It is Parallelepiped: a = 18, b = 20, c = 16, density = 2.4. Volume = 5760
+306: It is Parallelepiped: a = 16, b = 30, c = 16, density = 3.3. Volume = 7680
+307: It is Sphere: Radius = 38, density = 1.1. Volume = 249918
+308: It is Parallelepiped: a = 8, b = 20, c = 7, density = 1. Volume = 1120
+309: It is Tetrahedron: Edge = 14, density = 2.6. Volume = 323.384
+310: It is Tetrahedron: Edge = 37, density = 2.1. Volume = 5969.51
+311: It is Parallelepiped: a = 25, b = 12, c = 11, density = 2.6. Volume = 3300
+312: It is Tetrahedron: Edge = 22, density = 4.1. Volume = 1254.88
+313: It is Parallelepiped: a = 18, b = 39, c = 25, density = 3.5. Volume = 17550
+314: It is Tetrahedron: Edge = 11, density = 2.8. Volume = 156.86
+315: It is Parallelepiped: a = 13, b = 16, c = 38, density = 3.2. Volume = 7904
+316: It is Parallelepiped: a = 9, b = 30, c = 8, density = 2.3. Volume = 2160
+317: It is Tetrahedron: Edge = 24, density = 2.8. Volume = 1629.17
+318: It is Parallelepiped: a = 28, b = 26, c = 15, density = 4.8. Volume = 10920
+319: It is Parallelepiped: a = 32, b = 20, c = 9, density = 2.4. Volume = 5760
+320: It is Sphere: Radius = 4, density = 4.5. Volume = 291.492
+321: It is Parallelepiped: a = 14, b = 24, c = 14, density = 3.1. Volume = 4704
+322: It is Parallelepiped: a = 37, b = 29, c = 22, density = 2.7. Volume = 23606
+323: It is Tetrahedron: Edge = 5, density = 1.1. Volume = 14.7314
+324: It is Tetrahedron: Edge = 30, density = 1.7. Volume = 3181.98
+325: It is Tetrahedron: Edge = 17, density = 4.8. Volume = 579.003
+326: It is Parallelepiped: a = 18, b = 14, c = 14, density = 3.7. Volume = 3528
+327: It is Parallelepiped: a = 4, b = 31, c = 6, density = 1.4. Volume = 744
+328: It is Sphere: Radius = 1, density = 1.6. Volume = 4.55457
+329: It is Parallelepiped: a = 14, b = 24, c = 32, density = 4.9. Volume = 10752
+330: It is Sphere: Radius = 3, density = 1.4. Volume = 122.973
+331: It is Parallelepiped: a = 32, b = 34, c = 27, density = 2.1. Volume = 29376
+332: It is Sphere: Radius = 31, density = 2.5. Volume = 135685
+333: It is Sphere: Radius = 9, density = 2.1. Volume = 3320.28
+334: It is Sphere: Radius = 6, density = 2.5. Volume = 983.787
+335: It is Tetrahedron: Edge = 34, density = 3.5. Volume = 4632.02
+336: It is Tetrahedron: Edge = 26, density = 4.1. Volume = 2071.35
+337: It is Parallelepiped: a = 40, b = 7, c = 5, density = 4.8. Volume = 1400
+338: It is Sphere: Radius = 22, density = 4.6. Volume = 48497
+339: It is Parallelepiped: a = 36, b = 2, c = 38, density = 1.3. Volume = 2736
+340: It is Tetrahedron: Edge = 38, density = 2.4. Volume = 6466.73
+341: It is Sphere: Radius = 3, density = 3.1. Volume = 122.973
+342: It is Parallelepiped: a = 36, b = 8, c = 35, density = 3. Volume = 10080
+343: It is Tetrahedron: Edge = 36, density = 2. Volume = 5498.46
+344: It is Parallelepiped: a = 34, b = 13, c = 34, density = 1.6. Volume = 15028
+345: It is Parallelepiped: a = 24, b = 32, c = 31, density = 4.8. Volume = 23808
+346: It is Tetrahedron: Edge = 24, density = 3.7. Volume = 1629.17
+347: It is Tetrahedron: Edge = 15, density = 3.4. Volume = 397.748
+348: It is Tetrahedron: Edge = 18, density = 3.6. Volume = 687.308
+349: It is Parallelepiped: a = 29, b = 14, c = 17, density = 2.4. Volume = 6902
+350: It is Parallelepiped: a = 8, b = 14, c = 6, density = 1.4. Volume = 672
+351: It is Sphere: Radius = 16, density = 3.5. Volume = 18655.5
+352: It is Parallelepiped: a = 20, b = 11, c = 1, density = 3. Volume = 220
+353: It is Parallelepiped: a = 24, b = 3, c = 24, density = 1.2. Volume = 1728
+354: It is Sphere: Radius = 3, density = 2.6. Volume = 122.973
+355: It is Tetrahedron: Edge = 5, density = 1.6. Volume = 14.7314
+356: It is Sphere: Radius = 18, density = 2.4. Volume = 26562.2
+357: It is Tetrahedron: Edge = 4, density = 3.1. Volume = 7.54247
+358: It is Parallelepiped: a = 1, b = 18, c = 27, density = 1.7. Volume = 486
+359: It is Sphere: Radius = 13, density = 1.6. Volume = 10006.4
+360: It is Tetrahedron: Edge = 36, density = 1.9. Volume = 5498.46
+361: It is Parallelepiped: a = 31, b = 28, c = 10, density = 1.6. Volume = 8680
+362: It is Tetrahedron: Edge = 28, density = 1.3. Volume = 2587.07
+363: It is Parallelepiped: a = 33, b = 2, c = 20, density = 1.9. Volume = 1320
+364: It is Parallelepiped: a = 25, b = 13, c = 30, density = 4.4. Volume = 9750
+365: It is Parallelepiped: a = 7, b = 21, c = 20, density = 1.1. Volume = 2940
+366: It is Parallelepiped: a = 37, b = 31, c = 25, density = 4.7. Volume = 28675
+367: It is Tetrahedron: Edge = 15, density = 3.4. Volume = 397.748
+368: It is Sphere: Radius = 16, density = 2.7. Volume = 18655.5
+369: It is Parallelepiped: a = 17, b = 38, c = 19, density = 4.2. Volume = 12274
+370: It is Tetrahedron: Edge = 24, density = 3.1. Volume = 1629.17
+371: It is Parallelepiped: a = 36, b = 20, c = 20, density = 1.7. Volume = 14400
+372: It is Parallelepiped: a = 5, b = 6, c = 13, density = 4.2. Volume = 390
+373: It is Parallelepiped: a = 35, b = 17, c = 32, density = 3.2. Volume = 19040
+374: It is Parallelepiped: a = 16, b = 13, c = 4, density = 2.1. Volume = 832
+375: It is Parallelepiped: a = 11, b = 30, c = 31, density = 3.7. Volume = 10230
+376: It is Parallelepiped: a = 9, b = 12, c = 24, density = 3.3. Volume = 2592
+377: It is Parallelepiped: a = 23, b = 12, c = 4, density = 4.3. Volume = 1104
+378: It is Parallelepiped: a = 17, b = 30, c = 16, density = 3.8. Volume = 8160
+379: It is Tetrahedron: Edge = 9, density = 2.4. Volume = 85.9135
+380: It is Parallelepiped: a = 32, b = 38, c = 14, density = 1.7. Volume = 17024
+381: It is Tetrahedron: Edge = 9, density = 2. Volume = 85.9135
+382: It is Tetrahedron: Edge = 19, density = 4.1. Volume = 808.341
+383: It is Tetrahedron: Edge = 38, density = 1.1. Volume = 6466.73
+384: It is Tetrahedron: Edge = 1, density = 2.6. Volume = 0.117851
+385: It is Tetrahedron: Edge = 25, density = 4. Volume = 1841.42
+386: It is Parallelepiped: a = 21, b = 25, c = 18, density = 3.8. Volume = 9450
+387: It is Tetrahedron: Edge = 25, density = 3.3. Volume = 1841.42
+388: It is Tetrahedron: Edge = 17, density = 2.2. Volume = 579.003
+389: It is Sphere: Radius = 16, density = 2.3. Volume = 18655.5
+390: It is Tetrahedron: Edge = 26, density = 3.7. Volume = 2071.35
+391: It is Tetrahedron: Edge = 10, density = 4.1. Volume = 117.851
+392: It is Parallelepiped: a = 11, b = 37, c = 40, density = 3.7. Volume = 16280
+393: It is Tetrahedron: Edge = 17, density = 2.7. Volume = 579.003
+394: It is Tetrahedron: Edge = 1, density = 3.5. Volume = 0.117851
+395: It is Tetrahedron: Edge = 25, density = 1.1. Volume = 1841.42
+396: It is Parallelepiped: a = 1, b = 14, c = 28, density = 1.7. Volume = 392
+397: It is Tetrahedron: Edge = 11, density = 4.3. Volume = 156.86
+398: It is Parallelepiped: a = 13, b = 35, c = 31, density = 1.3. Volume = 14105
+399: It is Tetrahedron: Edge = 19, density = 4.4. Volume = 808.341
+400: It is Parallelepiped: a = 2, b = 39, c = 19, density = 3.5. Volume = 1482
+401: It is Parallelepiped: a = 2, b = 26, c = 33, density = 2.2. Volume = 1716
+402: It is Tetrahedron: Edge = 34, density = 2.6. Volume = 4632.02
+403: It is Tetrahedron: Edge = 8, density = 4.6. Volume = 60.3398
+404: It is Tetrahedron: Edge = 27, density = 4.8. Volume = 2319.66
+405: It is Sphere: Radius = 7, density = 1.5. Volume = 1562.22
+406: It is Sphere: Radius = 11, density = 2. Volume = 6062.13
+407: It is Sphere: Radius = 12, density = 1.9. Volume = 7870.29
+408: It is Parallelepiped: a = 37, b = 17, c = 38, density = 2.3. Volume = 23902
+409: It is Sphere: Radius = 2, density = 2.5. Volume = 36.4365
+410: It is Sphere: Radius = 11, density = 1.9. Volume = 6062.13
+411: It is Parallelepiped: a = 7, b = 11, c = 28, density = 1.4. Volume = 2156
+412: It is Sphere: Radius = 12, density = 1.7. Volume = 7870.29
+413: It is Parallelepiped: a = 19, b = 5, c = 19, density = 4.4. Volume = 1805
+414: It is Tetrahedron: Edge = 12, density = 1.5. Volume = 203.647
+415: It is Tetrahedron: Edge = 29, density = 1.8. Volume = 2874.27
+416: It is Parallelepiped: a = 15, b = 11, c = 25, density = 1.7. Volume = 4125
+417: It is Sphere: Radius = 28, density = 2.5. Volume = 99981.9
+418: It is Sphere: Radius = 7, density = 2.2. Volume = 1562.22
+419: It is Parallelepiped: a = 11, b = 12, c = 20, density = 3. Volume = 2640
+420: It is Parallelepiped: a = 39, b = 15, c = 21, density = 1.9. Volume = 12285
+421: It is Sphere: Radius = 20, density = 1.6. Volume = 36436.5
+422: It is Tetrahedron: Edge = 20, density = 2.9. Volume = 942.809
+423: It is Tetrahedron: Edge = 39, density = 4.7. Volume = 6990.81
+424: It is Parallelepiped: a = 18, b = 5, c = 5, density = 3.4. Volume = 450
+425: It is Tetrahedron: Edge = 15, density = 4.4. Volume = 397.748
+426: It is Parallelepiped: a = 35, b = 15, c = 4, density = 3.4. Volume = 2100
+427: It is Sphere: Radius = 16, density = 3.5. Volume = 18655.5
+428: It is Tetrahedron: Edge = 6, density = 3. Volume = 25.4558
+429: It is Parallelepiped: a = 1, b = 33, c = 1, density = 2.1. Volume = 33
+430: It is Parallelepiped: a = 38, b = 10, c = 2, density = 2.3. Volume = 760
+431: It is Parallelepiped: a = 6, b = 10, c = 4, density = 3.2. Volume = 240
+432: It is Tetrahedron: Edge = 38, density = 1.1. Volume = 6466.73
+433: It is Sphere: Radius = 12, density = 4.6. Volume = 7870.29
+434: It is Sphere: Radius = 16, density = 3.9. Volume = 18655.5
+435: It is Sphere: Radius = 33, density = 3.6. Volume = 163678
+436: It is Parallelepiped: a = 36, b = 28, c = 19, density = 1.1. Volume = 19152
+437: It is Sphere: Radius = 19, density = 2.6. Volume = 31239.8
+438: It is Tetrahedron: Edge = 22, density = 1.5. Volume = 1254.88
+439: It is Tetrahedron: Edge = 6, density = 1.8. Volume = 25.4558
+440: It is Tetrahedron: Edge = 21, density = 4.8. Volume = 1091.42
+441: It is Sphere: Radius = 25, density = 1.3. Volume = 71165.1
+442: It is Sphere: Radius = 10, density = 4.3. Volume = 4554.57
+443: It is Tetrahedron: Edge = 4, density = 2.1. Volume = 7.54247
+444: It is Parallelepiped: a = 33, b = 33, c = 25, density = 3.9. Volume = 27225
+445: It is Parallelepiped: a = 33, b = 29, c = 25, density = 4.7. Volume = 23925
+446: It is Parallelepiped: a = 35, b = 29, c = 32, density = 3.6. Volume = 32480
+447: It is Tetrahedron: Edge = 27, density = 2. Volume = 2319.66
+448: It is Tetrahedron: Edge = 5, density = 2.2. Volume = 14.7314
+449: It is Parallelepiped: a = 18, b = 37, c = 26, density = 3.5. Volume = 17316
+450: It is Tetrahedron: Edge = 29, density = 4.4. Volume = 2874.27
+451: It is Tetrahedron: Edge = 13, density = 2. Volume = 258.919
+452: It is Sphere: Radius = 16, density = 4.4. Volume = 18655.5
+453: It is Tetrahedron: Edge = 14, density = 3.2. Volume = 323.384
+454: It is Sphere: Radius = 8, density = 2. Volume = 2331.94
+455: It is Tetrahedron: Edge = 37, density = 2.4. Volume = 5969.51
+456: It is Tetrahedron: Edge = 1, density = 1.6. Volume = 0.117851
+457: It is Parallelepiped: a = 20, b = 12, c = 20, density = 4.5. Volume = 4800
+458: It is Parallelepiped: a = 30, b = 2, c = 40, density = 2.5. Volume = 2400
+459: It is Tetrahedron: Edge = 32, density = 1.7. Volume = 3861.75
+460: It is Tetrahedron: Edge = 6, density = 3.1. Volume = 25.4558
+461: It is Parallelepiped: a = 5, b = 32, c = 28, density = 4.8. Volume = 4480
+462: It is Sphere: Radius = 15, density = 3.6. Volume = 15371.7
+463: It is Parallelepiped: a = 6, b = 27, c = 19, density = 1.5. Volume = 3078
+464: It is Sphere: Radius = 3, density = 4.8. Volume = 122.973
+465: It is Parallelepiped: a = 14, b = 10, c = 30, density = 4.7. Volume = 4200
+466: It is Parallelepiped: a = 23, b = 30, c = 6, density = 1.1. Volume = 4140
+467: It is Sphere: Radius = 6, density = 1.3. Volume = 983.787
+468: It is Tetrahedron: Edge = 11, density = 2. Volume = 156.86
+469: It is Parallelepiped: a = 9, b = 25, c = 39, density = 3. Volume = 8775
+470: It is Parallelepiped: a = 17, b = 39, c = 27, density = 4. Volume = 17901
+471: It is Sphere: Radius = 17, density = 3.3. Volume = 22376.6
+472: It is Parallelepiped: a = 18, b = 5, c = 4, density = 1.7. Volume = 360
+473: It is Parallelepiped: a = 38, b = 11, c = 32, density = 2.4. Volume = 13376
+474: It is Parallelepiped: a = 15, b = 29, c = 7, density = 2.6. Volume = 3045
+475: It is Sphere: Radius = 7, density = 4.3. Volume = 1562.22
+476: It is Parallelepiped: a = 27, b = 15, c = 7, density = 2.7. Volume = 2835
+477: It is Parallelepiped: a = 29, b = 10, c = 2, density = 1.4. Volume = 580
+478: It is Parallelepiped: a = 20, b = 9, c = 12, density = 3.6. Volume = 2160
+479: It is Sphere: Radius = 25, density = 1.1. Volume = 71165.1
+480: It is Tetrahedron: Edge = 40, density = 4. Volume = 7542.47
+481: It is Parallelepiped: a = 20, b = 29, c = 13, density = 2.2. Volume = 7540
+482: It is Sphere: Radius = 6, density = 4.4. Volume = 983.787
+483: It is Tetrahedron: Edge = 12, density = 4.3. Volume = 203.647
+484: It is Parallelepiped: a = 37, b = 22, c = 33, density = 4.8. Volume = 26862
+485: It is Tetrahedron: Edge = 8, density = 2.7. Volume = 60.3398
+486: It is Sphere: Radius = 11, density = 1.3. Volume = 6062.13
+487: It is Tetrahedron: Edge = 39, density = 4.5. Volume = 6990.81
+488: It is Parallelepiped: a = 23, b = 29, c = 18, density = 2.3. Volume = 12006
+489: It is Parallelepiped: a = 13, b = 26, c = 40, density = 3.4. Volume = 13520
+490: It is Tetrahedron: Edge = 35, density = 3.1. Volume = 5052.87
+491: It is Sphere: Radius = 8, density = 4.3. Volume = 2331.94
+492: It is Tetrahedron: Edge = 31, density = 3.9. Volume = 3510.9
+493: It is Parallelepiped: a = 23, b = 28, c = 16, density = 3.1. Volume = 10304
+494: It is Parallelepiped: a = 34, b = 33, c = 1, density = 1.6. Volume = 1122
+495: It is Tetrahedron: Edge = 28, density = 3.6. Volume = 2587.07
+496: It is Parallelepiped: a = 16, b = 4, c = 11, density = 3.6. Volume = 704
+497: It is Tetrahedron: Edge = 36, density = 2.7. Volume = 5498.46
+498: It is Parallelepiped: a = 25, b = 12, c = 6, density = 1.7. Volume = 1800
+499: It is Tetrahedron: Edge = 31, density = 2.6. Volume = 3510.9
+500: It is Sphere: Radius = 13, density = 1.6. Volume = 10006.4
+501: It is Tetrahedron: Edge = 29, density = 1.7. Volume = 2874.27
+502: It is Tetrahedron: Edge = 8, density = 4.9. Volume = 60.3398
+503: It is Parallelepiped: a = 15, b = 35, c = 33, density = 4.2. Volume = 17325
+504: It is Tetrahedron: Edge = 20, density = 1.9. Volume = 942.809
+505: It is Parallelepiped: a = 4, b = 13, c = 24, density = 1.3. Volume = 1248
+506: It is Sphere: Radius = 7, density = 2.9. Volume = 1562.22
+507: It is Tetrahedron: Edge = 19, density = 3.5. Volume = 808.341
+508: It is Tetrahedron: Edge = 10, density = 4.8. Volume = 117.851
+509: It is Tetrahedron: Edge = 38, density = 1.5. Volume = 6466.73
+510: It is Tetrahedron: Edge = 18, density = 2.1. Volume = 687.308
+511: It is Sphere: Radius = 17, density = 2. Volume = 22376.6
+512: It is Tetrahedron: Edge = 24, density = 4.1. Volume = 1629.17
+513: It is Tetrahedron: Edge = 26, density = 1.9. Volume = 2071.35
+514: It is Parallelepiped: a = 38, b = 25, c = 10, density = 2.2. Volume = 9500
+515: It is Parallelepiped: a = 29, b = 21, c = 1, density = 1.5. Volume = 609
+516: It is Tetrahedron: Edge = 11, density = 4.5. Volume = 156.86
+517: It is Parallelepiped: a = 40, b = 2, c = 11, density = 1.9. Volume = 880
+518: It is Parallelepiped: a = 19, b = 26, c = 15, density = 2.6. Volume = 7410
+519: It is Sphere: Radius = 4, density = 4.9. Volume = 291.492
+520: It is Sphere: Radius = 36, density = 1. Volume = 212498
+521: It is Parallelepiped: a = 13, b = 10, c = 20, density = 4.4. Volume = 2600
+522: It is Sphere: Radius = 26, density = 1.5. Volume = 80051.1
+523: It is Parallelepiped: a = 22, b = 37, c = 15, density = 4.1. Volume = 12210
+524: It is Sphere: Radius = 34, density = 2.7. Volume = 179013
+525: It is Tetrahedron: Edge = 29, density = 1.9. Volume = 2874.27
+526: It is Parallelepiped: a = 16, b = 4, c = 33, density = 1.2. Volume = 2112
+527: It is Parallelepiped: a = 32, b = 15, c = 5, density = 2. Volume = 2400
+528: It is Parallelepiped: a = 34, b = 2, c = 37, density = 2.1. Volume = 2516
+529: It is Sphere: Radius = 2, density = 4.2. Volume = 36.4365
+530: It is Tetrahedron: Edge = 30, density = 1.7. Volume = 3181.98
+531: It is Tetrahedron: Edge = 9, density = 1.1. Volume = 85.9135
+532: It is Tetrahedron: Edge = 10, density = 2.7. Volume = 117.851
+533: It is Parallelepiped: a = 13, b = 2, c = 9, density = 1.7. Volume = 234
+534: It is Sphere: Radius = 16, density = 2.1. Volume = 18655.5
+535: It is Sphere: Radius = 17, density = 4.6. Volume = 22376.6
+536: It is Sphere: Radius = 13, density = 1.7. Volume = 10006.4
+537: It is Parallelepiped: a = 6, b = 33, c = 21, density = 4.4. Volume = 4158
+538: It is Tetrahedron: Edge = 11, density = 3.1. Volume = 156.86
+539: It is Sphere: Radius = 2, density = 4.1. Volume = 36.4365
+540: It is Sphere: Radius = 3, density = 4.3. Volume = 122.973
+541: It is Sphere: Radius = 4, density = 2. Volume = 291.492
+542: It is Parallelepiped: a = 9, b = 4, c = 1, density = 2.5. Volume = 36
+543: It is Parallelepiped: a = 16, b = 20, c = 31, density = 3.3. Volume = 9920
+544: It is Tetrahedron: Edge = 27, density = 3.7. Volume = 2319.66
+545: It is Tetrahedron: Edge = 40, density = 4.2. Volume = 7542.47
+546: It is Parallelepiped: a = 13, b = 20, c = 31, density = 3.2. Volume = 8060
+547: It is Parallelepiped: a = 2, b = 11, c = 10, density = 4.5. Volume = 220
+548: It is Tetrahedron: Edge = 12, density = 4.5. Volume = 203.647
+549: It is Tetrahedron: Edge = 15, density = 4.6. Volume = 397.748
+550: It is Parallelepiped: a = 3, b = 4, c = 1, density = 4.3. Volume = 12
+551: It is Parallelepiped: a = 8, b = 12, c = 7, density = 2.4. Volume = 672
+552: It is Sphere: Radius = 11, density = 3.7. Volume = 6062.13
+553: It is Sphere: Radius = 3, density = 2.8. Volume = 122.973
+554: It is Tetrahedron: Edge = 28, density = 1.7. Volume = 2587.07
+555: It is Parallelepiped: a = 39, b = 3, c = 27, density = 2.3. Volume = 3159
+556: It is Sphere: Radius = 8, density = 1.7. Volume = 2331.94
+557: It is Tetrahedron: Edge = 40, density = 1. Volume = 7542.47
+558: It is Parallelepiped: a = 7, b = 4, c = 20, density = 2.3. Volume = 560
+559: It is Sphere: Radius = 11, density = 2. Volume = 6062.13
+560: It is Parallelepiped: a = 21, b = 39, c = 2, density = 2.5. Volume = 1638
+561: It is Tetrahedron: Edge = 38, density = 3.1. Volume = 6466.73
+562: It is Sphere: Radius = 11, density = 2.1. Volume = 6062.13
+563: It is Tetrahedron: Edge = 36, density = 3.4. Volume = 5498.46
+564: It is Tetrahedron: Edge = 27, density = 3.4. Volume = 2319.66
+565: It is Parallelepiped: a = 38, b = 19, c = 9, density = 1.8. Volume = 6498
+566: It is Tetrahedron: Edge = 30, density = 4.8. Volume = 3181.98
+567: It is Parallelepiped: a = 5, b = 7, c = 15, density = 4.7. Volume = 525
+568: It is Tetrahedron: Edge = 13, density = 2. Volume = 258.919
+569: It is Tetrahedron: Edge = 15, density = 3.2. Volume = 397.748
+570: It is Tetrahedron: Edge = 3, density = 4.8. Volume = 3.18198
+571: It is Tetrahedron: Edge = 30, density = 3.2. Volume = 3181.98
+572: It is Tetrahedron: Edge = 16, density = 4.9. Volume = 482.718
+573: It is Tetrahedron: Edge = 40, density = 2.9. Volume = 7542.47
+574: It is Sphere: Radius = 38, density = 2.1. Volume = 249918
+575: It is Tetrahedron: Edge = 36, density = 3.7. Volume = 5498.46
+576: It is Parallelepiped: a = 34, b = 35, c = 10, density = 2. Volume = 11900
+577: It is Parallelepiped: a = 13, b = 15, c = 13, density = 4.4. Volume = 2535
+578: It is Parallelepiped: a = 15, b = 25, c = 37, density = 4.5. Volume = 13875
+579: It is Tetrahedron: Edge = 39, density = 2. Volume = 6990.81
+580: It is Parallelepiped: a = 38, b = 39, c = 39, density = 4.2. Volume = 57798
+581: It is Parallelepiped: a = 2, b = 1, c = 15, density = 3.9. Volume = 30
+582: It is Parallelepiped: a = 8, b = 24, c = 14, density = 2.8. Volume = 2688
+583: It is Parallelepiped: a = 26, b = 33, c = 34, density = 2.1. Volume = 29172
+584: It is Parallelepiped: a = 11, b = 37, c = 34, density = 3.8. Volume = 13838
+585: It is Sphere: Radius = 3, density = 3.5. Volume = 122.973
+586: It is Parallelepiped: a = 1, b = 10, c = 24, density = 4.3. Volume = 240
+587: It is Parallelepiped: a = 39, b = 23, c = 22, density = 4.7. Volume = 19734
+588: It is Tetrahedron: Edge = 36, density = 1.7. Volume = 5498.46
+589: It is Tetrahedron: Edge = 13, density = 4.2. Volume = 258.919
+590: It is Parallelepiped: a = 25, b = 17, c = 35, density = 3. Volume = 14875
+591: It is Tetrahedron: Edge = 21, density = 2.5. Volume = 1091.42
+592: It is Sphere: Radius = 17, density = 1.8. Volume = 22376.6
+593: It is Tetrahedron: Edge = 11, density = 1.2. Volume = 156.86
+594: It is Tetrahedron: Edge = 34, density = 4.5. Volume = 4632.02
+595: It is Parallelepiped: a = 14, b = 40, c = 24, density = 3. Volume = 13440
+596: It is Tetrahedron: Edge = 29, density = 2.2. Volume = 2874.27
+597: It is Sphere: Radius = 13, density = 3.8. Volume = 10006.4
+598: It is Parallelepiped: a = 25, b = 9, c = 21, density = 4.1. Volume = 4725
+599: It is Parallelepiped: a = 30, b = 22, c = 28, density = 1.2. Volume = 18480
+600: It is Parallelepiped: a = 23, b = 18, c = 31, density = 3.4. Volume = 12834
+601: It is Parallelepiped: a = 4, b = 25, c = 30, density = 2.5. Volume = 3000
+602: It is Tetrahedron: Edge = 18, density = 3.8. Volume = 687.308
+603: It is Parallelepiped: a = 22, b = 9, c = 32, density = 4.7. Volume = 6336
+604: It is Sphere: Radius = 13, density = 3.8. Volume = 10006.4
+605: It is Parallelepiped: a = 2, b = 20, c = 1, density = 1.4. Volume = 40
+606: It is Parallelepiped: a = 22, b = 26, c = 32, density = 2.6. Volume = 18304
+607: It is Sphere: Radius = 15, density = 4.3. Volume = 15371.7
+608: It is Tetrahedron: Edge = 31, density = 4.9. Volume = 3510.9
+609: It is Sphere: Radius = 7, density = 3.1. Volume = 1562.22
+610: It is Tetrahedron: Edge = 1, density = 4. Volume = 0.117851
+611: It is Tetrahedron: Edge = 33, density = 2.2. Volume = 4235.22
+612: It is Tetrahedron: Edge = 24, density = 1.9. Volume = 1629.17
+613: It is Tetrahedron: Edge = 28, density = 4. Volume = 2587.07
+614: It is Parallelepiped: a = 25, b = 7, c = 36, density = 1.1. Volume = 6300
+615: It is Tetrahedron: Edge = 12, density = 3.5. Volume = 203.647
+616: It is Parallelepiped: a = 5, b = 31, c = 35, density = 4.6. Volume = 5425
+617: It is Tetrahedron: Edge = 1, density = 2.7. Volume = 0.117851
+618: It is Tetrahedron: Edge = 34, density = 4.9. Volume = 4632.02
+619: It is Tetrahedron: Edge = 1, density = 1.5. Volume = 0.117851
+620: It is Parallelepiped: a = 29, b = 36, c = 3, density = 1.8. Volume = 3132
+621: It is Parallelepiped: a = 16, b = 26, c = 3, density = 2. Volume = 1248
+622: It is Sphere: Radius = 1, density = 3.1. Volume = 4.55457
+623: It is Sphere: Radius = 4, density = 3.6. Volume = 291.492
+624: It is Parallelepiped: a = 31, b = 24, c = 33, density = 3.3. Volume = 24552
+625: It is Tetrahedron: Edge = 36, density = 1. Volume = 5498.46
+626: It is Sphere: Radius = 3, density = 1. Volume = 122.973
+627: It is Tetrahedron: Edge = 16, density = 3. Volume = 482.718
+628: It is Sphere: Radius = 10, density = 3.1. Volume = 4554.57
+629: It is Parallelepiped: a = 36, b = 33, c = 2, density = 1.9. Volume = 2376
+630: It is Parallelepiped: a = 5, b = 36, c = 31, density = 4.4. Volume = 5580
+631: It is Tetrahedron: Edge = 16, density = 2.6. Volume = 482.718
+632: It is Parallelepiped: a = 8, b = 32, c = 7, density = 1.2. Volume = 1792
+633: It is Tetrahedron: Edge = 33, density = 4.6. Volume = 4235.22
+634: It is Sphere: Radius = 16, density = 2.2. Volume = 18655.5
+635: It is Parallelepiped: a = 34, b = 22, c = 18, density = 1. Volume = 13464
+636: It is Sphere: Radius = 16, density = 1.9. Volume = 18655.5
+637: It is Tetrahedron: Edge = 8, density = 2. Volume = 60.3398
+638: It is Parallelepiped: a = 36, b = 7, c = 31, density = 3.5. Volume = 7812
+639: It is Sphere: Radius = 8, density = 4.9. Volume = 2331.94
+640: It is Tetrahedron: Edge = 14, density = 4.3. Volume = 323.384
+641: It is Sphere: Radius = 6, density = 4.4. Volume = 983.787
+642: It is Tetrahedron: Edge = 40, density = 1.7. Volume = 7542.47
+643: It is Parallelepiped: a = 40, b = 7, c = 19, density = 1. Volume = 5320
+644: It is Sphere: Radius = 18, density = 2. Volume = 26562.2
+645: It is Parallelepiped: a = 14, b = 17, c = 10, density = 4. Volume = 2380
+646: It is Parallelepiped: a = 33, b = 16, c = 10, density = 4.9. Volume = 5280
+647: It is Parallelepiped: a = 2, b = 5, c = 1, density = 2.5. Volume = 10
+648: It is Tetrahedron: Edge = 15, density = 1.5. Volume = 397.748
+649: It is Sphere: Radius = 9, density = 4.9. Volume = 3320.28
+650: It is Tetrahedron: Edge = 8, density = 4.4. Volume = 60.3398
+651: It is Tetrahedron: Edge = 6, density = 2.2. Volume = 25.4558
+652: It is Parallelepiped: a = 17, b = 36, c = 33, density = 3.5. Volume = 20196
+653: It is Sphere: Radius = 2, density = 1.9. Volume = 36.4365
+654: It is Sphere: Radius = 4, density = 1.8. Volume = 291.492
+655: It is Parallelepiped: a = 5, b = 6, c = 32, density = 2.1. Volume = 960
+656: It is Tetrahedron: Edge = 6, density = 2.7. Volume = 25.4558
+657: It is Sphere: Radius = 6, density = 1.8. Volume = 983.787
+658: It is Parallelepiped: a = 13, b = 4, c = 21, density = 2. Volume = 1092
+659: It is Tetrahedron: Edge = 25, density = 1.3. Volume = 1841.42
+660: It is Parallelepiped: a = 3, b = 5, c = 4, density = 4.4. Volume = 60
+661: It is Parallelepiped: a = 12, b = 26, c = 4, density = 1.8. Volume = 1248
+662: It is Tetrahedron: Edge = 16, density = 1. Volume = 482.718
+663: It is Parallelepiped: a = 25, b = 16, c = 19, density = 4.2. Volume = 7600
+664: It is Tetrahedron: Edge = 32, density = 4.5. Volume = 3861.75
+665: It is Sphere: Radius = 33, density = 4.2. Volume = 163678
+666: It is Tetrahedron: Edge = 9, density = 2.7. Volume = 85.9135
+667: It is Tetrahedron: Edge = 3, density = 2.9. Volume = 3.18198
+668: It is Tetrahedron: Edge = 6, density = 1.5. Volume = 25.4558
+669: It is Sphere: Radius = 9, density = 4.1. Volume = 3320.28
+670: It is Sphere: Radius = 10, density = 4.9. Volume = 4554.57
+671: It is Parallelepiped: a = 2, b = 22, c = 34, density = 2.6. Volume = 1496
+672: It is Tetrahedron: Edge = 26, density = 4. Volume = 2071.35
+673: It is Tetrahedron: Edge = 14, density = 4.3. Volume = 323.384
+674: It is Parallelepiped: a = 9, b = 15, c = 1, density = 1. Volume = 135
+675: It is Parallelepiped: a = 9, b = 18, c = 25, density = 1.2. Volume = 4050
+676: It is Parallelepiped: a = 26, b = 16, c = 10, density = 3.4. Volume = 4160
+677: It is Tetrahedron: Edge = 11, density = 4.7. Volume = 156.86
+678: It is Tetrahedron: Edge = 19, density = 3.9. Volume = 808.341
+679: It is Tetrahedron: Edge = 10, density = 1.3. Volume = 117.851
+680: It is Parallelepiped: a = 9, b = 12, c = 1, density = 3.1. Volume = 108
+681: It is Sphere: Radius = 11, density = 4.7. Volume = 6062.13
+682: It is Sphere: Radius = 33, density = 4.4. Volume = 163678
+683: It is Sphere: Radius = 10, density = 1.1. Volume = 4554.57
+684: It is Tetrahedron: Edge = 24, density = 2.1. Volume = 1629.17
+685: It is Sphere: Radius = 5, density = 4. Volume = 569.321
+686: It is Tetrahedron: Edge = 1, density = 2.4. Volume = 0.117851
+687: It is Sphere: Radius = 12, density = 1.6. Volume = 7870.29
+688: It is Sphere: Radius = 15, density = 1.7. Volume = 15371.7
+689: It is Tetrahedron: Edge = 18, density = 1.9. Volume = 687.308
+690: It is Sphere: Radius = 30, density = 1. Volume = 122973
+691: It is Parallelepiped: a = 35, b = 10, c = 18, density = 1.9. Volume = 6300
+692: It is Sphere: Radius = 31, density = 2.2. Volume = 135685
+693: It is Parallelepiped: a = 22, b = 17, c = 16, density = 3.7. Volume = 5984
+694: It is Parallelepiped: a = 19, b = 35, c = 5, density = 4.2. Volume = 3325
+695: It is Parallelepiped: a = 17, b = 3, c = 3, density = 4.3. Volume = 153
+696: It is Tetrahedron: Edge = 10, density = 3.2. Volume = 117.851
+697: It is Sphere: Radius = 10, density = 4.8. Volume = 4554.57
+698: It is Parallelepiped: a = 12, b = 8, c = 11, density = 4.8. Volume = 1056
+699: It is Sphere: Radius = 1, density = 3.5. Volume = 4.55457
+700: It is Sphere: Radius = 9, density = 4.2. Volume = 3320.28
+701: It is Sphere: Radius = 8, density = 2.1. Volume = 2331.94
+702: It is Parallelepiped: a = 4, b = 36, c = 37, density = 2.9. Volume = 5328
+703: It is Tetrahedron: Edge = 39, density = 2.2. Volume = 6990.81
+704: It is Parallelepiped: a = 8, b = 28, c = 30, density = 1.9. Volume = 6720
+705: It is Tetrahedron: Edge = 1, density = 2. Volume = 0.117851
+706: It is Tetrahedron: Edge = 21, density = 3. Volume = 1091.42
+707: It is Sphere: Radius = 13, density = 4.7. Volume = 10006.4
+708: It is Parallelepiped: a = 13, b = 30, c = 34, density = 2.9. Volume = 13260
+709: It is Sphere: Radius = 33, density = 4.4. Volume = 163678
+710: It is Parallelepiped: a = 7, b = 39, c = 36, density = 4.6. Volume = 9828
+711: It is Sphere: Radius = 4, density = 3.9. Volume = 291.492
+712: It is Tetrahedron: Edge = 38, density = 1.9. Volume = 6466.73
+713: It is Tetrahedron: Edge = 32, density = 3.1. Volume = 3861.75
+714: It is Tetrahedron: Edge = 16, density = 3.5. Volume = 482.718
+715: It is Parallelepiped: a = 9, b = 38, c = 29, density = 1.4. Volume = 9918
+716: It is Parallelepiped: a = 1, b = 29, c = 39, density = 1.9. Volume = 1131
+717: It is Parallelepiped: a = 30, b = 27, c = 9, density = 1.7. Volume = 7290
+718: It is Sphere: Radius = 34, density = 4.7. Volume = 179013
+719: It is Parallelepiped: a = 39, b = 27, c = 19, density = 3.3. Volume = 20007
+720: It is Sphere: Radius = 35, density = 1.6. Volume = 195277
+721: It is Parallelepiped: a = 31, b = 19, c = 13, density = 2.1. Volume = 7657
+722: It is Sphere: Radius = 15, density = 3.9. Volume = 15371.7
+723: It is Tetrahedron: Edge = 25, density = 3. Volume = 1841.42
+724: It is Parallelepiped: a = 7, b = 4, c = 1, density = 2.6. Volume = 28
+725: It is Sphere: Radius = 11, density = 1.8. Volume = 6062.13
+726: It is Tetrahedron: Edge = 22, density = 2.5. Volume = 1254.88
+727: It is Sphere: Radius = 5, density = 3.5. Volume = 569.321
+728: It is Sphere: Radius = 16, density = 4.3. Volume = 18655.5
+729: It is Parallelepiped: a = 27, b = 22, c = 7, density = 4.8. Volume = 4158
+730: It is Tetrahedron: Edge = 4, density = 1.3. Volume = 7.54247
+731: It is Sphere: Radius = 10, density = 1.6. Volume = 4554.57
+732: It is Tetrahedron: Edge = 26, density = 4.9. Volume = 2071.35
+733: It is Parallelepiped: a = 35, b = 7, c = 38, density = 1.1. Volume = 9310
+734: It is Sphere: Radius = 2, density = 3.6. Volume = 36.4365
+735: It is Sphere: Radius = 9, density = 2.2. Volume = 3320.28
+736: It is Parallelepiped: a = 6, b = 36, c = 1, density = 3.3. Volume = 216
+737: It is Tetrahedron: Edge = 7, density = 3.1. Volume = 40.4229
+738: It is Parallelepiped: a = 2, b = 17, c = 1, density = 2. Volume = 34
+739: It is Sphere: Radius = 8, density = 2.3. Volume = 2331.94
+740: It is Tetrahedron: Edge = 32, density = 1. Volume = 3861.75
+741: It is Sphere: Radius = 23, density = 3.8. Volume = 55415.4
+742: It is Tetrahedron: Edge = 31, density = 1. Volume = 3510.9
+743: It is Parallelepiped: a = 11, b = 5, c = 18, density = 3.3. Volume = 990
+744: It is Sphere: Radius = 30, density = 1.5. Volume = 122973
+745: It is Parallelepiped: a = 18, b = 4, c = 36, density = 3.2. Volume = 2592
+746: It is Sphere: Radius = 39, density = 2.6. Volume = 270172
+747: It is Tetrahedron: Edge = 13, density = 4.6. Volume = 258.919
+748: It is Tetrahedron: Edge = 4, density = 4.6. Volume = 7.54247
+749: It is Tetrahedron: Edge = 31, density = 2.5. Volume = 3510.9
+750: It is Tetrahedron: Edge = 34, density = 2.9. Volume = 4632.02
+751: It is Parallelepiped: a = 17, b = 30, c = 12, density = 1.8. Volume = 6120
+752: It is Sphere: Radius = 1, density = 2.3. Volume = 4.55457
+753: It is Tetrahedron: Edge = 10, density = 1.9. Volume = 117.851
+754: It is Tetrahedron: Edge = 7, density = 2.3. Volume = 40.4229
+755: It is Tetrahedron: Edge = 19, density = 2.8. Volume = 808.341
+756: It is Sphere: Radius = 7, density = 2.6. Volume = 1562.22
+757: It is Parallelepiped: a = 15, b = 33, c = 22, density = 3.5. Volume = 10890
+758: It is Tetrahedron: Edge = 38, density = 2.4. Volume = 6466.73
+759: It is Tetrahedron: Edge = 6, density = 2.3. Volume = 25.4558
+760: It is Parallelepiped: a = 20, b = 40, c = 31, density = 3. Volume = 24800
+761: It is Parallelepiped: a = 15, b = 14, c = 21, density = 2.3. Volume = 4410
+762: It is Parallelepiped: a = 19, b = 28, c = 35, density = 3.9. Volume = 18620
+763: It is Sphere: Radius = 6, density = 4.4. Volume = 983.787
+764: It is Parallelepiped: a = 22, b = 23, c = 11, density = 2.3. Volume = 5566
+765: It is Parallelepiped: a = 39, b = 16, c = 32, density = 1.9. Volume = 19968
+766: It is Parallelepiped: a = 23, b = 30, c = 37, density = 3.8. Volume = 25530
+767: It is Parallelepiped: a = 9, b = 34, c = 31, density = 3.7. Volume = 9486
+768: It is Parallelepiped: a = 17, b = 9, c = 20, density = 3.1. Volume = 3060
+769: It is Sphere: Radius = 8, density = 4.4. Volume = 2331.94
+770: It is Parallelepiped: a = 15, b = 30, c = 6, density = 2.6. Volume = 2700
+771: It is Parallelepiped: a = 5, b = 25, c = 32, density = 2.3. Volume = 4000
+772: It is Parallelepiped: a = 6, b = 36, c = 28, density = 3.6. Volume = 6048
+773: It is Sphere: Radius = 15, density = 1. Volume = 15371.7
+774: It is Parallelepiped: a = 23, b = 12, c = 11, density = 2.7. Volume = 3036
+775: It is Tetrahedron: Edge = 5, density = 4.4. Volume = 14.7314
+776: It is Sphere: Radius = 5, density = 4.8. Volume = 569.321
+777: It is Parallelepiped: a = 18, b = 1, c = 28, density = 1.1. Volume = 504
+778: It is Tetrahedron: Edge = 19, density = 1.6. Volume = 808.341
+779: It is Tetrahedron: Edge = 11, density = 4.9. Volume = 156.86
+780: It is Parallelepiped: a = 40, b = 15, c = 1, density = 1.9. Volume = 600
+781: It is Tetrahedron: Edge = 12, density = 1.5. Volume = 203.647
+782: It is Sphere: Radius = 1, density = 1.1. Volume = 4.55457
+783: It is Parallelepiped: a = 28, b = 28, c = 12, density = 4. Volume = 9408
+784: It is Parallelepiped: a = 12, b = 19, c = 38, density = 2.7. Volume = 8664
+785: It is Tetrahedron: Edge = 37, density = 2.7. Volume = 5969.51
+786: It is Sphere: Radius = 17, density = 2.8. Volume = 22376.6
+787: It is Sphere: Radius = 6, density = 2.7. Volume = 983.787
+788: It is Tetrahedron: Edge = 6, density = 2.8. Volume = 25.4558
+789: It is Parallelepiped: a = 17, b = 17, c = 17, density = 1.8. Volume = 4913
+790: It is Parallelepiped: a = 28, b = 18, c = 34, density = 4.9. Volume = 17136
+791: It is Parallelepiped: a = 23, b = 17, c = 17, density = 2.8. Volume = 6647
+792: It is Tetrahedron: Edge = 35, density = 4.1. Volume = 5052.87
+793: It is Parallelepiped: a = 6, b = 8, c = 5, density = 4.9. Volume = 240
+794: It is Parallelepiped: a = 14, b = 17, c = 10, density = 3.4. Volume = 2380
+795: It is Tetrahedron: Edge = 18, density = 1. Volume = 687.308
+796: It is Parallelepiped: a = 18, b = 10, c = 1, density = 1.4. Volume = 180
+797: It is Parallelepiped: a = 28, b = 23, c = 32, density = 2.8. Volume = 20608
+798: It is Tetrahedron: Edge = 14, density = 4.4. Volume = 323.384
+799: It is Parallelepiped: a = 25, b = 21, c = 4, density = 2.5. Volume = 2100
+800: It is Sphere: Radius = 1, density = 2.4. Volume = 4.55457
+801: It is Parallelepiped: a = 1, b = 20, c = 24, density = 1.8. Volume = 480
+802: It is Sphere: Radius = 8, density = 2.5. Volume = 2331.94
+803: It is Parallelepiped: a = 9, b = 24, c = 21, density = 1.6. Volume = 4536
+804: It is Parallelepiped: a = 35, b = 38, c = 22, density = 3.7. Volume = 29260
+805: It is Parallelepiped: a = 17, b = 38, c = 28, density = 3.8. Volume = 18088
+806: It is Sphere: Radius = 26, density = 2.1. Volume = 80051.1
+807: It is Tetrahedron: Edge = 34, density = 4.2. Volume = 4632.02
+808: It is Parallelepiped: a = 1, b = 31, c = 9, density = 3.4. Volume = 279
+809: It is Tetrahedron: Edge = 17, density = 1.7. Volume = 579.003
+810: It is Sphere: Radius = 16, density = 2. Volume = 18655.5
+811: It is Parallelepiped: a = 13, b = 33, c = 32, density = 1.7. Volume = 13728
+812: It is Parallelepiped: a = 29, b = 35, c = 21, density = 3. Volume = 21315
+813: It is Sphere: Radius = 6, density = 1.5. Volume = 983.787
+814: It is Tetrahedron: Edge = 1, density = 4. Volume = 0.117851
+815: It is Parallelepiped: a = 3, b = 16, c = 9, density = 2.1. Volume = 432
+816: It is Sphere: Radius = 29, density = 3. Volume = 111081
+817: It is Tetrahedron: Edge = 38, density = 4.5. Volume = 6466.73
+818: It is Sphere: Radius = 2, density = 1.7. Volume = 36.4365
+819: It is Parallelepiped: a = 5, b = 2, c = 39, density = 2.6. Volume = 390
+820: It is Sphere: Radius = 4, density = 3.2. Volume = 291.492
+821: It is Parallelepiped: a = 37, b = 13, c = 4, density = 4.8. Volume = 1924
+822: It is Sphere: Radius = 13, density = 1.2. Volume = 10006.4
+823: It is Tetrahedron: Edge = 3, density = 2.3. Volume = 3.18198
+824: It is Parallelepiped: a = 31, b = 34, c = 4, density = 3. Volume = 4216
+825: It is Tetrahedron: Edge = 38, density = 3.1. Volume = 6466.73
+826: It is Tetrahedron: Edge = 24, density = 4.7. Volume = 1629.17
+827: It is Parallelepiped: a = 34, b = 2, c = 37, density = 4.1. Volume = 2516
+828: It is Sphere: Radius = 11, density = 3.7. Volume = 6062.13
+829: It is Tetrahedron: Edge = 30, density = 2.5. Volume = 3181.98
+830: It is Tetrahedron: Edge = 26, density = 1.5. Volume = 2071.35
+831: It is Tetrahedron: Edge = 38, density = 1.7. Volume = 6466.73
+832: It is Tetrahedron: Edge = 32, density = 2.3. Volume = 3861.75
+833: It is Tetrahedron: Edge = 15, density = 4.8. Volume = 397.748
+834: It is Parallelepiped: a = 8, b = 16, c = 25, density = 1.4. Volume = 3200
+835: It is Tetrahedron: Edge = 19, density = 1.5. Volume = 808.341
+836: It is Sphere: Radius = 2, density = 2.4. Volume = 36.4365
+837: It is Parallelepiped: a = 21, b = 7, c = 31, density = 4.5. Volume = 4557

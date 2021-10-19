@@ -1,0 +1,6 @@
+Filled Container:
+Container contains 4 elements.
+0: It is Sphere: Radius = 10, density = 1. Volume = 4554.57
+1: It is Parallelepiped: a = 10, b = 10, c = 10, density = 2. Volume = 1000
+2: It is Tetrahedron: Edge = 10, density = 3. Volume = 117.851
+3: It is Tetrahedron: Edge = 45, density = 4. Volume = 10739.2

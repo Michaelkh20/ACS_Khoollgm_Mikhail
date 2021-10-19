@@ -1,0 +1,9 @@
+Shapes larger then average volume have been removed from Container
+Filled Container:
+Container contains 6 elements.
+0: It is Tetrahedron: Edge = 16, density = 4.8. Volume = 482.718
+1: It is Tetrahedron: Edge = 7, density = 3.4. Volume = 40.4229
+2: It is Sphere: Radius = 7, density = 3.1. Volume = 1562.22
+3: It is Parallelepiped: a = 24, b = 2, c = 28, density = 2.9. Volume = 1344
+4: It is Tetrahedron: Edge = 2, density = 2.5. Volume = 0.942809
+5: It is Sphere: Radius = 8, density = 1.7. Volume = 2331.94
