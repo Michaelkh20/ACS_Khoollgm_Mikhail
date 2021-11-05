@@ -1,0 +1,11 @@
+Shapes larger then average volume have been removed from Container
+Filled Container:
+Container is store 8 shapes:
+Tetrahedron: Edge = 10, density = 3.89, Volume = 117.85
+Sphere: Radius = 21, density = 3.19, Volume = 38792.39
+Parallelepiped: a = 35, b = 15, c = 1, density = 0.63, Volume = 525.0
+Parallelepiped: a = 3, b = 19, c = 13, density = 2.03, Volume = 741.0
+Sphere: Radius = 27, density = 3.85, Volume = 82447.96
+Tetrahedron: Edge = 34, density = 3.68, Volume = 4632.02
+Tetrahedron: Edge = 37, density = 2.07, Volume = 5969.51
+Sphere: Radius = 33, density = 3.54, Volume = 150532.55

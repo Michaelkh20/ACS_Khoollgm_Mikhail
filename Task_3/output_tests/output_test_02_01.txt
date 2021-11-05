@@ -1,0 +1,10 @@
+Filled Container:
+Container is store 8 shapes:
+Sphere: Radius = 25, density = 1.0, Volume = 65449.85
+Parallelepiped: a = 89, b = 14, c = 2, density = 2.0, Volume = 2492.0
+Tetrahedron: Edge = 56, density = 3.0, Volume = 20696.54
+Sphere: Radius = 48, density = 4.0, Volume = 463246.69
+Sphere: Radius = 99, density = 5.0, Volume = 4064378.95
+Parallelepiped: a = 25, b = 28, c = 42, density = 1.0, Volume = 29400.0
+Tetrahedron: Edge = 33, density = 2.0, Volume = 4235.22
+Tetrahedron: Edge = 38, density = 3.0, Volume = 6466.73

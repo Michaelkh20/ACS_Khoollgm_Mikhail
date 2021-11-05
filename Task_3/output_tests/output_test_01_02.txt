@@ -1,0 +1,5 @@
+Shapes larger then average volume have been removed from Container
+Filled Container:
+Container is store 2 shapes:
+Parallelepiped: a = 10, b = 10, c = 10, density = 2.0, Volume = 1000.0
+Tetrahedron: Edge = 10, density = 3.0, Volume = 117.85

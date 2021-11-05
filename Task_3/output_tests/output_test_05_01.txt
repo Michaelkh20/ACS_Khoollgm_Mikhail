@@ -1,0 +1,22 @@
+Filled Container:
+Container is store 20 shapes:
+Sphere: Radius = 25, density = 3.0, Volume = 65449.85
+Parallelepiped: a = 5, b = 6, c = 3, density = 3.0, Volume = 90.0
+Tetrahedron: Edge = 45, density = 3.0, Volume = 10739.18
+Sphere: Radius = 895, density = 2.0, Volume = 3003016478.04
+Parallelepiped: a = 85, b = 41, c = 12, density = 2.0, Volume = 41820.0
+Tetrahedron: Edge = 12, density = 1.0, Volume = 203.65
+Sphere: Radius = 56, density = 4.0, Volume = 735618.58
+Tetrahedron: Edge = 69, density = 4.0, Volume = 38715.16
+Tetrahedron: Edge = 58, density = 5.0, Volume = 22994.17
+Sphere: Radius = 45, density = 3.0, Volume = 381703.51
+Parallelepiped: a = 58, b = 56, c = 54, density = 2.0, Volume = 175392.0
+Sphere: Radius = 25, density = 4.0, Volume = 65449.85
+Sphere: Radius = 78, density = 4.0, Volume = 1987798.77
+Tetrahedron: Edge = 57, density = 2.0, Volume = 21825.2
+Parallelepiped: a = 50, b = 12, c = 23, density = 4.0, Volume = 13800.0
+Parallelepiped: a = 56, b = 47, c = 93, density = 1.0, Volume = 244776.0
+Tetrahedron: Edge = 25, density = 4.0, Volume = 1841.42
+Tetrahedron: Edge = 98, density = 3.0, Volume = 110920.54
+Sphere: Radius = 52, density = 1.0, Volume = 588977.41
+Tetrahedron: Edge = 88, density = 4.0, Volume = 80312.25
